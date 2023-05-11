@@ -20,11 +20,15 @@ Then follow these steps to merge:
 - ```git commit -m 'your commit message'```
 - ```git push origin master```
 
+
+here is the solution
+
+
 - git init
 - git add tt/
 - git commit -m "first commit"
 -  git remote add origin https://github.com/Torykuzzaman/hello
--   git pull
-- git push origin master -f
+-  git pull
+- ```git push origin master -f ```
 -   
 
