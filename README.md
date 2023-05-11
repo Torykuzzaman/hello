@@ -19,3 +19,12 @@ Then follow these steps to merge:
 - ```git add .```
 - ```git commit -m 'your commit message'```
 - ```git push origin master```
+
+- git init
+- git add tt/
+- git commit -m "first commit"
+-  git remote add origin https://github.com/Torykuzzaman/hello
+-   git pull
+- git push origin master -f
+-   
+
