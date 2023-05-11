@@ -29,6 +29,7 @@ here is the solution
 - git commit -m "first commit"
 -  git remote add origin https://github.com/Torykuzzaman/hello
 -  git pull
-- ```git push origin master -f ```
+-  git checkout -b master
+- ```git push origin master  ```
 -   
 
